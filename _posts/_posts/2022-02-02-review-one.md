@@ -1,13 +1,13 @@
-###**Review One**
+###**_Review One_**
 
-##**Project:**
-Digital Aponte
+##**_Project:_**
+**Digital Aponte**
 
-##**Project Director(s):**
-Lina Rodriguez, Ada Ferrer, Kris Minhae Choe, Eric Anderson
+##**_Project Director(s):_**
+**Lina Rodriguez, Ada Ferrer, Kris Minhae Choe, Eric Anderson**
 
-##**Project URL:**
-[https://aponte.hosting.nyu.edu/about/] (https://aponte.hosting.nyu.edu/about/)
+##**_Project URL:_**
+**[https://aponte.hosting.nyu.edu/about/] (https://aponte.hosting.nyu.edu/about/)**
 
 ![web heading] (lydiaosborne.github.io/Lydia-s-Digital-Telegram/images/apontetitlemenu.png)
 
