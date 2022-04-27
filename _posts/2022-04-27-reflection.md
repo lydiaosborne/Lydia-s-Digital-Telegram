@@ -1,4 +1,4 @@
-(# Reflection)
+# Reflection
 
 I was intimidated when I first started this class. I did not have a clear understanding of what digital humanities is and what a writing-intensive looks like in college. One of the first projects we looked at was a website that when refreshed, presented a new digital humanities definition. This was the first time I realized that digital humanities look different to everyone and that is what makes it so interesting and special. This is what I tweeted after viewing that project:
 
