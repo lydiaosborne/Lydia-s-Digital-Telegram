@@ -1,6 +1,6 @@
 I was intimidated when I first started this class. I did not have a clear understanding of what digital humanities is and what a writing-intensive looks like in college. One of the first projects we looked at was a website that when refreshed, presented a new digital humanities definition. This was the first time I realized that digital humanities look different to everyone and that is what makes it so interesting and special. This is what I tweeted after viewing that project:
 
-lydiaosborne.github.io/Lydia-spDigital-Telegram/images/firstdhtweet.png.
+{tweet defining digital humanities} (lydiaosborne.github.io/Lydia-s-Digital-Telegram/images/firstdhtweet.png.)
 
 From this point on, I recognized that digital humanities can be fairly customizable to one’s interests. Though the subject matter should include fundamental ideas like being interactive, educational, and enhancing the traditional humanities in some form, there is so much room for creativity and exploration within the field. I remember telling my parents after the first couple of weeks of the class what I was learning and how I was already thinking about project ideas. It was exciting to enlighten them on a topic that they have never heard of before because it is still fairly new and niche. 
 
